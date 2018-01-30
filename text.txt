@@ -1,3 +1,6 @@
 some dummy text
 
 cokolwiek jeszcze 
+
+git status
+
